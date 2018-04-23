@@ -1,0 +1,313 @@
+[Sat Apr 21 14:43:06 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:43:27 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:43:27 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 14:43:27 2018] healthd: battery l=100 v=4310 t=31.0 h=2 st=3 c=-512 chg=
+[Sat Apr 21 14:43:27 2018] healthd: battery l=100 v=4310 t=31.0 h=2 st=3 c=-512 chg=
+[Sat Apr 21 14:44:27 2018] healthd: battery l=100 v=4340 t=31.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 14:44:29 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:44:30 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 14:44:30 2018] healthd: battery l=100 v=4340 t=31.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 14:44:30 2018] healthd: battery l=100 v=4340 t=31.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 14:45:04 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:45:08 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 14:45:08 2018] healthd: battery l=100 v=4305 t=31.5 h=2 st=3 c=-537 chg=
+[Sat Apr 21 14:45:08 2018] healthd: battery l=100 v=4305 t=31.5 h=2 st=3 c=-537 chg=
+[Sat Apr 21 14:45:16 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 14:45:16 2018] healthd: battery l=100 v=4305 t=31.7 h=2 st=3 c=-537 chg=
+[Sat Apr 21 14:45:16 2018] healthd: battery l=100 v=4305 t=31.7 h=2 st=3 c=-537 chg=
+[Sat Apr 21 14:46:16 2018] healthd: battery l=100 v=4338 t=31.5 h=2 st=3 c=-219 chg=
+[Sat Apr 21 14:47:16 2018] healthd: battery l=100 v=4336 t=31.5 h=2 st=3 c=-226 chg=
+[Sat Apr 21 14:48:16 2018] healthd: battery l=100 v=4332 t=31.5 h=2 st=3 c=-256 chg=
+[Sat Apr 21 14:48:53 2018] healthd: battery l=100 v=4333 t=31.2 h=2 st=3 c=-238 chg=
+[Sat Apr 21 14:49:54 2018] healthd: battery l=100 v=4334 t=31.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 14:50:54 2018] healthd: battery l=100 v=4332 t=31.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 14:51:28 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 14:51:28 2018] healthd: battery l=100 v=4332 t=31.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 14:51:28 2018] healthd: battery l=100 v=4332 t=31.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 14:51:33 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:51:39 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:51:41 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 14:51:41 2018] healthd: battery l=100 v=4332 t=31.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 14:51:41 2018] healthd: battery l=100 v=4332 t=31.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 14:52:41 2018] healthd: battery l=100 v=4331 t=31.5 h=2 st=3 c=-220 chg=
+[Sat Apr 21 14:53:41 2018] healthd: battery l=100 v=4330 t=31.2 h=2 st=3 c=-219 chg=
+[Sat Apr 21 14:54:02 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:54:41 2018] healthd: battery l=100 v=4329 t=31.2 h=2 st=3 c=-219 chg=
+[Sat Apr 21 14:55:02 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 908000000
+[Sat Apr 21 14:55:41 2018] healthd: battery l=100 v=4327 t=31.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 14:56:29 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:56:41 2018] healthd: battery l=100 v=4326 t=31.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 14:56:45 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:57:19 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 908000000
+[Sat Apr 21 14:57:41 2018] healthd: battery l=100 v=4322 t=31.2 h=2 st=3 c=-255 chg=
+[Sat Apr 21 14:58:41 2018] healthd: battery l=100 v=4324 t=31.2 h=2 st=3 c=-224 chg=
+[Sat Apr 21 14:58:48 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 908000000
+[Sat Apr 21 14:58:53 2018] healthd: battery l=100 v=4322 t=31.2 h=2 st=3 c=-239 chg=
+[Sat Apr 21 14:59:14 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 908000000
+[Sat Apr 21 14:59:41 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 14:59:54 2018] healthd: battery l=100 v=4322 t=31.5 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:00:54 2018] healthd: battery l=100 v=4321 t=31.5 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:01:54 2018] healthd: battery l=100 v=4321 t=31.5 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:02:54 2018] healthd: battery l=100 v=4320 t=31.5 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:03:54 2018] healthd: battery l=100 v=4318 t=31.5 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:04:54 2018] healthd: battery l=100 v=4317 t=31.5 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:05:54 2018] healthd: battery l=100 v=4316 t=31.7 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:06:54 2018] healthd: battery l=100 v=4315 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:07:03 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:07:03 2018] healthd: battery l=100 v=4315 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:07:03 2018] healthd: battery l=100 v=4315 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:08:03 2018] healthd: battery l=100 v=4314 t=31.7 h=2 st=3 c=-218 chg=
+[Sat Apr 21 15:08:53 2018] healthd: battery l=100 v=4304 t=31.7 h=2 st=3 c=-302 chg=
+[Sat Apr 21 15:09:54 2018] healthd: battery l=100 v=4312 t=31.7 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:10:24 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:10:24 2018] healthd: battery l=100 v=4311 t=31.7 h=2 st=3 c=-224 chg=
+[Sat Apr 21 15:10:24 2018] healthd: battery l=100 v=4311 t=31.7 h=2 st=3 c=-224 chg=
+[Sat Apr 21 15:11:00 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:11:00 2018] healthd: battery l=100 v=4310 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:11:00 2018] healthd: battery l=100 v=4310 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:11:18 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:11:18 2018] healthd: battery l=100 v=4310 t=31.7 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:11:18 2018] healthd: battery l=100 v=4310 t=31.7 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:11:35 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:11:35 2018] healthd: battery l=100 v=4310 t=31.7 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:11:35 2018] healthd: battery l=100 v=4310 t=31.7 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:11:53 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:11:53 2018] healthd: battery l=100 v=4309 t=31.7 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:11:53 2018] healthd: battery l=100 v=4309 t=31.7 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:12:11 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:12:11 2018] healthd: battery l=100 v=4309 t=31.7 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:12:11 2018] healthd: battery l=100 v=4309 t=31.7 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:12:28 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:12:28 2018] healthd: battery l=100 v=4307 t=31.7 h=2 st=3 c=-236 chg=
+[Sat Apr 21 15:12:28 2018] healthd: battery l=100 v=4307 t=31.7 h=2 st=3 c=-236 chg=
+[Sat Apr 21 15:12:47 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:12:47 2018] healthd: battery l=100 v=4308 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:12:47 2018] healthd: battery l=100 v=4308 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:13:05 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:13:05 2018] healthd: battery l=100 v=4308 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:13:05 2018] healthd: battery l=100 v=4308 t=31.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:13:22 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:13:22 2018] healthd: battery l=100 v=4307 t=31.7 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:13:22 2018] healthd: battery l=100 v=4307 t=31.7 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:13:41 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:13:41 2018] healthd: battery l=100 v=4307 t=31.7 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:13:41 2018] healthd: battery l=100 v=4307 t=31.7 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:13:50 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:13:50 2018] healthd: battery l=100 v=4307 t=32.0 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:13:50 2018] healthd: battery l=100 v=4307 t=32.0 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:14:00 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:14:00 2018] healthd: battery l=100 v=4307 t=32.0 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:14:00 2018] healthd: battery l=100 v=4307 t=32.0 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:14:17 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:14:17 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:14:17 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:14:36 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:14:36 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:14:36 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:14:56 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:14:56 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-226 chg=
+[Sat Apr 21 15:14:56 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-226 chg=
+[Sat Apr 21 15:15:11 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:15:11 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-226 chg=
+[Sat Apr 21 15:15:11 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-226 chg=
+[Sat Apr 21 15:15:30 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:15:30 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:15:30 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:15:47 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:15:47 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:15:47 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:16:01 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:16:01 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:16:01 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:16:08 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:16:08 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:16:08 2018] healthd: battery l=100 v=4305 t=32.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:16:27 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:16:27 2018] healthd: battery l=100 v=4304 t=32.0 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:16:27 2018] healthd: battery l=100 v=4304 t=32.0 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:16:31 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:16:31 2018] healthd: battery l=100 v=4304 t=32.0 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:16:31 2018] healthd: battery l=100 v=4304 t=32.0 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:16:49 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:16:49 2018] healthd: battery l=100 v=4304 t=32.0 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:16:49 2018] healthd: battery l=100 v=4304 t=32.0 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:17:49 2018] healthd: battery l=100 v=4303 t=32.0 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:18:49 2018] healthd: battery l=100 v=4301 t=32.0 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:18:53 2018] healthd: battery l=100 v=4301 t=32.0 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:19:54 2018] healthd: battery l=100 v=4300 t=32.0 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:20:54 2018] healthd: battery l=100 v=4299 t=32.0 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:21:54 2018] healthd: battery l=100 v=4290 t=32.0 h=2 st=3 c=-302 chg=
+[Sat Apr 21 15:22:37 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:22:54 2018] healthd: battery l=100 v=4297 t=32.0 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:23:09 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:23:54 2018] healthd: battery l=100 v=4296 t=32.0 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:24:54 2018] healthd: battery l=100 v=4293 t=32.2 h=2 st=3 c=-242 chg=
+[Sat Apr 21 15:25:54 2018] healthd: battery l=100 v=4293 t=32.2 h=2 st=3 c=-227 chg=
+[Sat Apr 21 15:26:54 2018] healthd: battery l=100 v=4292 t=32.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:27:54 2018] healthd: battery l=100 v=4291 t=32.2 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:28:53 2018] healthd: battery l=100 v=4290 t=32.2 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:29:44 2018] healthd: battery l=100 v=4287 t=32.2 h=2 st=3 c=-231 chg=
+[Sat Apr 21 15:30:44 2018] healthd: battery l=100 v=4279 t=32.2 h=2 st=3 c=-305 chg=
+[Sat Apr 21 15:31:44 2018] healthd: battery l=100 v=4287 t=32.2 h=2 st=3 c=-219 chg=
+[Sat Apr 21 15:32:44 2018] healthd: battery l=100 v=4285 t=32.2 h=2 st=3 c=-227 chg=
+[Sat Apr 21 15:33:44 2018] healthd: battery l=100 v=4284 t=32.2 h=2 st=3 c=-220 chg=
+[Sat Apr 21 15:34:44 2018] healthd: battery l=100 v=4281 t=32.2 h=2 st=3 c=-234 chg=
+[Sat Apr 21 15:35:44 2018] healthd: battery l=100 v=4282 t=32.2 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:36:11 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:36:42 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:36:44 2018] healthd: battery l=100 v=4234 t=32.5 h=2 st=3 c=-659 chg=
+[Sat Apr 21 15:37:44 2018] healthd: battery l=100 v=4270 t=32.7 h=2 st=3 c=-272 chg=
+[Sat Apr 21 15:37:49 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:38:14 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:38:33 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:38:44 2018] healthd: battery l=100 v=4273 t=32.7 h=2 st=3 c=-231 chg=
+[Sat Apr 21 15:38:49 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:38:53 2018] healthd: battery l=100 v=4272 t=33.0 h=2 st=3 c=-237 chg=
+[Sat Apr 21 15:39:10 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:39:24 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:39:54 2018] healthd: battery l=99 v=4262 t=33.2 h=2 st=3 c=-306 chg=
+[Sat Apr 21 15:39:56 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:40:05 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:40:54 2018] healthd: battery l=99 v=4267 t=33.5 h=2 st=3 c=-235 chg=
+[Sat Apr 21 15:41:05 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:41:21 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 15:41:54 2018] healthd: battery l=99 v=4269 t=33.2 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:42:54 2018] healthd: battery l=99 v=4269 t=33.0 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:43:54 2018] healthd: battery l=99 v=4261 t=33.0 h=2 st=3 c=-302 chg=
+[Sat Apr 21 15:44:54 2018] healthd: battery l=99 v=4267 t=32.7 h=2 st=3 c=-225 chg=
+[Sat Apr 21 15:45:54 2018] healthd: battery l=99 v=4263 t=32.7 h=2 st=3 c=-254 chg=
+[Sat Apr 21 15:46:54 2018] healthd: battery l=99 v=4265 t=32.7 h=2 st=3 c=-224 chg=
+[Sat Apr 21 15:47:54 2018] healthd: battery l=98 v=4263 t=32.7 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:48:53 2018] healthd: battery l=98 v=4263 t=32.7 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:49:54 2018] healthd: battery l=98 v=4260 t=32.5 h=2 st=3 c=-238 chg=
+[Sat Apr 21 15:50:54 2018] healthd: battery l=98 v=4260 t=32.5 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:51:15 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 15:51:15 2018] healthd: battery l=98 v=4252 t=32.5 h=2 st=3 c=-301 chg=
+[Sat Apr 21 15:51:15 2018] healthd: battery l=98 v=4252 t=32.5 h=2 st=3 c=-301 chg=
+[Sat Apr 21 15:52:15 2018] healthd: battery l=98 v=4259 t=32.5 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:53:15 2018] healthd: battery l=98 v=4250 t=32.5 h=2 st=3 c=-289 chg=
+[Sat Apr 21 15:54:15 2018] healthd: battery l=98 v=4256 t=32.5 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:55:15 2018] healthd: battery l=98 v=4248 t=32.5 h=2 st=3 c=-285 chg=
+[Sat Apr 21 15:56:15 2018] healthd: battery l=98 v=4253 t=32.5 h=2 st=3 c=-221 chg=
+[Sat Apr 21 15:57:16 2018] healthd: battery l=98 v=4252 t=32.5 h=2 st=3 c=-226 chg=
+[Sat Apr 21 15:58:16 2018] healthd: battery l=98 v=4251 t=32.5 h=2 st=3 c=-223 chg=
+[Sat Apr 21 15:58:54 2018] healthd: battery l=98 v=4250 t=32.5 h=2 st=3 c=-222 chg=
+[Sat Apr 21 15:59:54 2018] healthd: battery l=97 v=4248 t=32.5 h=2 st=3 c=-231 chg=
+[Sat Apr 21 16:00:54 2018] healthd: battery l=97 v=4244 t=32.5 h=2 st=3 c=-256 chg=
+[Sat Apr 21 16:01:54 2018] healthd: battery l=97 v=4246 t=32.5 h=2 st=3 c=-222 chg=
+[Sat Apr 21 16:02:54 2018] healthd: battery l=97 v=4246 t=32.5 h=2 st=3 c=-222 chg=
+[Sat Apr 21 16:03:54 2018] healthd: battery l=97 v=4244 t=32.5 h=2 st=3 c=-222 chg=
+[Sat Apr 21 16:04:54 2018] healthd: battery l=97 v=4243 t=32.5 h=2 st=3 c=-228 chg=
+[Sat Apr 21 16:05:54 2018] healthd: battery l=97 v=4241 t=32.5 h=2 st=3 c=-224 chg=
+[Sat Apr 21 16:06:48 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 16:06:48 2018] healthd: battery l=96 v=4241 t=32.5 h=2 st=3 c=-225 chg=
+[Sat Apr 21 16:06:48 2018] healthd: battery l=96 v=4241 t=32.5 h=2 st=3 c=-225 chg=
+[Sat Apr 21 16:07:01 2018] tusb320_irq_handler: start
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: start
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: attached_state is 2
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: Sink detected, perform TrySNK
+[Sat Apr 21 16:07:01 2018] tusb320_current_advertise_set: current advertise set to 0
+[Sat Apr 21 16:07:01 2018] tusb320_soft_reset
+[Sat Apr 21 16:07:01 2018] tusb320_soft_reset
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: schedule wdog work
+[Sat Apr 21 16:07:01 2018] tusb320_drp_duty_cycle_set: set to 6
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: end
+[Sat Apr 21 16:07:01 2018] tusb320_irq_handler: start
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: start
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: attached_state is 2
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: TrySNK fail, Sink detected again
+[Sat Apr 21 16:07:01 2018] tusb320_drp_duty_cycle_set: set to 0
+[Sat Apr 21 16:07:01 2018] tusb320_intb_work: end
+[Sat Apr 21 16:07:01 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 16:07:01 2018] healthd: battery l=96 v=4238 t=32.5 h=2 st=3 c=-243 chg=
+[Sat Apr 21 16:07:01 2018] healthd: battery l=96 v=4238 t=32.5 h=2 st=3 c=-243 chg=
+[Sat Apr 21 16:07:01 2018] msm-dwc3 f9200000.ssusb: DWC3 exited from low power mode
+[Sat Apr 21 16:07:01 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 16:07:01 2018] healthd: battery l=96 v=4238 t=32.5 h=2 st=3 c=-243 chg=
+[Sat Apr 21 16:07:01 2018] healthd: battery l=96 v=4238 t=32.5 h=2 st=3 c=-243 chg=
+[Sat Apr 21 16:07:01 2018] xhci-hcd xhci-hcd.0.auto: xHCI Host Controller
+[Sat Apr 21 16:07:01 2018] xhci-hcd xhci-hcd.0.auto: new USB bus registered, assigned bus number 1
+[Sat Apr 21 16:07:01 2018] xhci-hcd xhci-hcd.0.auto: irq 163, io mem 0xf9200000
+[Sat Apr 21 16:07:01 2018] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[Sat Apr 21 16:07:01 2018] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Sat Apr 21 16:07:01 2018] usb usb1: Product: xHCI Host Controller
+[Sat Apr 21 16:07:01 2018] usb usb1: Manufacturer: Linux 3.10.73-nethunter-angler-2.0 xhci-hcd
+[Sat Apr 21 16:07:01 2018] usb usb1: SerialNumber: xhci-hcd.0.auto
+[Sat Apr 21 16:07:01 2018] type=1400 audit(1524458399.208:395): avc: denied { signull } for pid=3949 comm="perfd" scontext=u:r:perfd:s0 tcontext=u:r:system_server:s0 tclass=process permissive=1
+[Sat Apr 21 16:07:01 2018] type=1400 audit(1524471065.082:396): avc: denied { mknod } for pid=29 comm="kdevtmpfs" capability=27 scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=capability permissive=1
+[Sat Apr 21 16:07:01 2018] xHCI xhci_add_endpoint called for root hub
+[Sat Apr 21 16:07:01 2018] xHCI xhci_check_bandwidth called for root hub
+[Sat Apr 21 16:07:01 2018] type=1400 audit(1524471065.082:396): avc: denied { mknod } for pid=29 comm="kdevtmpfs" capability=27 scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=capability permissive=1
+[Sat Apr 21 16:07:01 2018] type=1400 audit(1524471065.082:397): avc: denied { create } for pid=29 comm="kdevtmpfs" name="001" scontext=u:r:kernel:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+[Sat Apr 21 16:07:01 2018] type=1400 audit(1524471065.082:397): avc: denied { create } for pid=29 comm="kdevtmpfs" name="001" scontext=u:r:kernel:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+[Sat Apr 21 16:07:01 2018] type=1400 audit(1524471065.082:398): avc: denied { setattr } for pid=29 comm="kdevtmpfs" name="001" dev="devtmpfs" ino=336114 scontext=u:r:kernel:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+[Sat Apr 21 16:07:01 2018] hub 1-0:1.0: USB hub found
+[Sat Apr 21 16:07:01 2018] hub 1-0:1.0: 1 port detected
+[Sat Apr 21 16:07:01 2018] xhci-hcd xhci-hcd.0.auto: xHCI Host Controller
+[Sat Apr 21 16:07:01 2018] xhci-hcd xhci-hcd.0.auto: new USB bus registered, assigned bus number 2
+[Sat Apr 21 16:07:01 2018] usb usb2: New USB device found, idVendor=1d6b, idProduct=0003
+[Sat Apr 21 16:07:01 2018] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Sat Apr 21 16:07:01 2018] usb usb2: Product: xHCI Host Controller
+[Sat Apr 21 16:07:01 2018] usb usb2: Manufacturer: Linux 3.10.73-nethunter-angler-2.0 xhci-hcd
+[Sat Apr 21 16:07:01 2018] usb usb2: SerialNumber: xhci-hcd.0.auto
+[Sat Apr 21 16:07:01 2018] xHCI xhci_add_endpoint called for root hub
+[Sat Apr 21 16:07:01 2018] xHCI xhci_check_bandwidth called for root hub
+[Sat Apr 21 16:07:01 2018] hub 2-0:1.0: USB hub found
+[Sat Apr 21 16:07:01 2018] hub 2-0:1.0: 1 port detected
+[Sat Apr 21 16:07:02 2018] usb 1-1: new high-speed USB device number 2 using xhci-hcd
+[Sat Apr 21 16:07:02 2018] usb 1-1: New USB device found, idVendor=0cf3, idProduct=9271
+[Sat Apr 21 16:07:02 2018] usb 1-1: New USB device strings: Mfr=16, Product=32, SerialNumber=48
+[Sat Apr 21 16:07:02 2018] usb 1-1: Product: USB2.0 WLAN
+[Sat Apr 21 16:07:02 2018] usb 1-1: Manufacturer: ATHEROS
+[Sat Apr 21 16:07:02 2018] usb 1-1: SerialNumber: 12345
+[Sat Apr 21 16:07:02 2018] init: Untracked pid 13890 killed by signal 9
+[Sat Apr 21 16:08:02 2018] healthd: battery l=96 v=4204 t=32.5 h=2 st=3 c=-520 chg=
+[Sat Apr 21 16:08:53 2018] healthd: battery l=96 v=4226 t=32.5 h=2 st=3 c=-302 chg=
+[Sat Apr 21 16:09:54 2018] healthd: battery l=96 v=4224 t=32.5 h=2 st=3 c=-301 chg=
+[Sat Apr 21 16:10:54 2018] healthd: battery l=96 v=4221 t=32.7 h=2 st=3 c=-311 chg=
+[Sat Apr 21 16:11:54 2018] healthd: battery l=96 v=4220 t=32.7 h=2 st=3 c=-301 chg=
+[Sat Apr 21 16:12:54 2018] healthd: battery l=96 v=4216 t=32.7 h=2 st=3 c=-328 chg=
+[Sat Apr 21 16:13:54 2018] healthd: battery l=95 v=4181 t=33.0 h=2 st=3 c=-631 chg=
+[Sat Apr 21 16:14:51 2018] ipa-wan ipa_wwan_ioctl:1420 [rmnet_ipa0] unsupported cmd[35585]dhd_prot_ioctl : bus is down. we have nothing to do
+[Sat Apr 21 16:14:51 2018] dhd_check_hang: Event HANG send up due to  re=0 te=0 e=-1 s=0
+[Sat Apr 21 16:14:51 2018] dhd_check_hang: Event HANG send up due to  re=0 te=0 e=-1 s=0
+[Sat Apr 21 16:14:51 2018] CFG80211-ERROR) wl_get_tx_power : error (-1)
+[Sat Apr 21 16:14:51 2018] CFG80211-ERROR) wl_cfg80211_get_tx_power : error (-1)
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471065.082:398): avc: denied { setattr } for pid=29 comm="kdevtmpfs" name="001" dev="devtmpfs" ino=336114 scontext=u:r:kernel:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:399): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b03 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] dhd_prot_ioctl : bus is down. we have nothing to do
+[Sat Apr 21 16:14:51 2018] CFGP2P-ERROR) wl_cfgp2p_bss_isup : 'cfg bss -C 0' failed: -1
+[Sat Apr 21 16:14:51 2018] CFGP2P-ERROR) wl_cfgp2p_bss_isup : NOTE: this ioctl error is normal when the BSS has not been created yet.
+[Sat Apr 21 16:14:51 2018] dhd_prot_ioctl : bus is down. we have nothing to do
+[Sat Apr 21 16:14:51 2018] dhd_prot_ioctl : bus is down. we have nothing to do
+[Sat Apr 21 16:14:51 2018] dhd_prot_ioctl : bus is down. we have nothing to do
+[Sat Apr 21 16:14:51 2018] CFG80211-ERROR) wl_dongle_down : WLC_DOWN error (-1)
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:399): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b03 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:400): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b2b scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:400): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b2b scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:401): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b1b scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:401): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b1b scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:402): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b15 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:402): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b15 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] type=1400 audit(1524471534.472:403): avc: denied { ioctl } for pid=16460 comm="iwconfig" path="socket:[342023]" dev="sockfs" ino=342023 ioctlcmd=8b1d scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=udp_socket permissive=1
+[Sat Apr 21 16:14:51 2018] wl_android_wifi_off in
+[Sat Apr 21 16:14:51 2018] dhd_prot_ioctl : bus is down. we have nothing to do
+[Sat Apr 21 16:14:51 2018] dhd_bus_devreset: == Power OFF ==
+[Sat Apr 21 16:14:51 2018] msm_pcie_disable: PCIe: Assert the reset of endpoint of RC1.
+[Sat Apr 21 16:14:51 2018] dhd_bus_devreset:  WLAN OFF Done
+[Sat Apr 21 16:14:51 2018] wifi_platform_set_power = 0
+[Sat Apr 21 16:14:51 2018] dhd_wlan_power Enter: power off
+[Sat Apr 21 16:14:51 2018] CFG80211-ERROR) wl_cfg80211_hang : In : chip crash eventing
+[Sat Apr 21 16:14:51 2018] dhd_ioctl_entry: Interface is down 
+[Sat Apr 21 16:14:51 2018] cfg80211: Calling CRDA to update world regulatory domain
+[Sat Apr 21 16:15:47 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 16:15:51 2018] healthd: battery l=95 v=4200 t=33.2 h=2 st=3 c=-413 chg=
+[Sat Apr 21 16:16:00 2018] SMBCHG: smbchg_external_power_changed: smbchg_external_power_changed: current_limit = 0
+[Sat Apr 21 16:16:00 2018] healthd: battery l=95 v=4200 t=33.2 h=2 st=3 c=-413 chg=
+[Sat Apr 21 16:16:00 2018] healthd: battery l=95 v=4200 t=33.2 h=2 st=3 c=-413 chg=
+[Sat Apr 21 16:16:08 2018] dynamic_dsitiming_sysfs_wta: dynamic_dsitiming_sysfs_wta: dsi bit clk  is already 948000000
+[Sat Apr 21 16:17:00 2018] healthd: battery l=95 v=4222 t=33.5 h=2 st=3 c=-195 chg=
+[Sat Apr 21 16:18:00 2018] healthd: battery l=95 v=4221 t=33.5 h=2 st=3 c=-204 chg=
+[Sat Apr 21 16:18:53 2018] healthd: battery l=95 v=4220 t=33.5 h=2 st=3 c=-194 chg=
+[Sat Apr 21 16:19:54 2018] healthd: battery l=95 v=4219 t=33.5 h=2 st=3 c=-197 chg=
+[Sat Apr 21 16:20:54 2018] healthd: battery l=95 v=4217 t=33.5 h=2 st=3 c=-199 chg=

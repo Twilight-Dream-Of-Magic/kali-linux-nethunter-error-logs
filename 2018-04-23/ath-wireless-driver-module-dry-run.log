@@ -1,0 +1,5 @@
+insmod /lib/modules/3.10.73-nethunter-angler-2.0/kernel/net/mac80211/mac80211.ko 
+insmod /lib/modules/3.10.73-nethunter-angler-2.0/kernel/drivers/net/wireless/ath/ath.ko 
+insmod /lib/modules/3.10.73-nethunter-angler-2.0/kernel/drivers/net/wireless/ath/ath9k/ath9k_hw.ko 
+insmod /lib/modules/3.10.73-nethunter-angler-2.0/kernel/drivers/net/wireless/ath/ath9k/ath9k_common.ko 
+insmod /lib/modules/3.10.73-nethunter-angler-2.0/kernel/drivers/net/wireless/ath/ath9k/ath9k_htc.ko 
